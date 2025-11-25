@@ -1,3 +1,3 @@
 # newrepo2
 
-some text, some more text
+some text, some more text, more text
